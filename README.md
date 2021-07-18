@@ -1,3 +1,7 @@
+> **WARNING**: This is **NOT** the official Unifonic SDK, at the time of this writing, Unifonic's suggested method is that a user should download the SDK from their website and extract it in their repository which makes it difficult for people to find whether there is a new version of this package that can potentially includea security fix.
+
+> I'll publish this as a package, I'll try to keep the dependencies up-to-date until Unifonic publish their own official package.
+
 # Getting started
 
 ## Introduction
