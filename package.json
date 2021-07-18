@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://https://github.com/AbdelrahmanHafez/unifonic-next-gen-lib.git"
+    "url": "git://github.com/AbdelrahmanHafez/unifonic-next-gen-lib.git"
   },
   "scripts": {
     "lint": "eslint lib"
